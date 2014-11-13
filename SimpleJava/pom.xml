@@ -94,6 +94,6 @@
 		<connection>scm:git:git@github.com:ganderson26/examples.git</connection>
 		<url>scm:git:git@github.com:ganderson26/examples.git</url>
 		<developerConnection>scm:git:git@github.com:ganderson26/examples.git</developerConnection>
-		<tag>SimpleJava-0.0.1</tag>
+		<tag>SimpleJava-0.0.2</tag>
 	</scm>
 </project>
