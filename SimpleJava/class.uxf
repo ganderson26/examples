@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>50</x>
+      <y>20</y>
+      <w>150</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>examples::Calculator
+--
+--
++Calculator(): ctor
++sum(int a, int b): int
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
